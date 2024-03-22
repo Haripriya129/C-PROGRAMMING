@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605952107 source:f:\n terms of harmonic\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605775626 source:f:\distance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
